@@ -1,0 +1,12 @@
+
+    #background {
+        background-color: blue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+
+    body {
+        background-color: red;
+        font-size: large;
+        text-align: center;
+    }
